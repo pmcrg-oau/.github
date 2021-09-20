@@ -6,8 +6,8 @@
 
 👩‍💻 Useful resources - You can checkout some of our brilliant individual members personal profiles for projects and articles.
 
-🍿 Fun facts - We like to tackle complex problems together as a team. We are currently building mobile applications with Kotlin, Dark and ReactNative.
-we implement our frontend & backend technologies with JavaScripts.
+🍿 Fun facts - We like to tackle complex problems together as a team. We are currently building mobile applications with Kotlin, Dart and ReactNative.
+we implement our frontend & backend technologies with JavaScripts, TypeScript.
 
 🧙 We believe that for anything to show results we need to be patient and trust the process.
 
